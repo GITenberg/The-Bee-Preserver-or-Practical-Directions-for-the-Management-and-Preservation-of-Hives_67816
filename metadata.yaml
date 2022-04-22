@@ -1,0 +1,36 @@
+_repo: The-Bee-Preserver-or-Practical-Directions-for-the-Management-and-Preservation-of-Hives_67816
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+creator:
+  author:
+    agent_name: Gelieu, Jonas de
+    gutenberg_agent_id: '54474'
+    url: http://www.gutenberg.org/2009/agents/54474
+description: ''
+gutenberg_issued: '2022-04-12'
+identifiers:
+  gutenberg: '67816'
+language: en
+pgterms:marc904: https://archive.org/details/beepreserverorpr00gl/
+pgterms:marc905: 20220410063301degelieu
+pgterms:marc906: '1829'
+pgterms:marc907: UK
+production_note: Tom Cosmas compiled from materials made available at The Internet
+  Archive and placed in the Public Domain.
+publication_note: UK :John Anderson,1829.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Bee Preserver; or, Practical Directions for the Management and Preservation
+  of Hives
+url: http://www.gutenberg.org/ebooks/67816
