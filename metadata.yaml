@@ -9,12 +9,17 @@ contributor:
     wikipedia:
     - http://www.gutenberg.org/ebooks/author/49
     - https://en.wikipedia.org/wiki/Anonymous_work
+covers:
+- cover_type: archival
+  image_path: 67816-h/images/cover.png
 creator:
   author:
     agent_name: Gelieu, Jonas de
     gutenberg_agent_id: '54474'
     url: http://www.gutenberg.org/2009/agents/54474
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67816#The-Bee-Preserver-or-Practical-Directions-for-the-Management-and-Preservation-of-Hives
 gutenberg_issued: '2022-04-12'
 identifiers:
   gutenberg: '67816'
